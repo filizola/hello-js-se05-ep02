@@ -1,0 +1,23 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "exercicio 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filizola/hello-js-se05-ep02.git"
+  },
+  "keywords": [
+    "aula",
+    "02"
+  ],
+  "author": "filizola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filizola/hello-js-se05-ep02/issues"
+  },
+  "homepage": "https://github.com/filizola/hello-js-se05-ep02#readme"
+}
